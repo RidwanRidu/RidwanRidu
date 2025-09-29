@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/RidwanRidu">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines= Hi+there%2C+ I'm+Ridwan+Hossain!; Welcome+to+my+GitHub+Profile!; 💻+Software+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ridwan+Hossain!;Welcome+to+my+GitHub+Profile!;💻+Software+Developer" alt="Typing SVG" />
     </a>
 </div>
 
