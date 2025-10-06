@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://github.com/RidwanRidu">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=%C2%A0👋Hi%20there%2C%20I'm%20Ridwan%20Hossain!%20%2C;💕Welcome%20to%20my%20GitHub%20Profile!;💻%20Software%20Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=620&lines=%C2%A0👋Hi%20there%2C%20I'm%20Ridwan%20Hossain!;💕Welcome%20to%20my%20GitHub%20Profile!;💻%20Software%20Developer;🚀%20Open%20Source%20Contributor" alt="Typing SVG" />
   </a>
 </p>
-
 
 ---
 
